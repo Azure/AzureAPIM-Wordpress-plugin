@@ -1,0 +1,26 @@
+.login-button {
+	display: inline-block;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 5px;
+	background-color: #007bff; /* Button background color */
+	color: #fff; /* Button text color */
+	font-size: 16px;
+	cursor: pointer;
+	text-decoration: none;
+}
+
+.login-button:hover {
+	background-color: #0056b3; /* Button background color on hover */
+}
+
+.icon-svg-aad {
+	width: 24px; /* Adjust icon size as needed */
+	height: 24px; /* Adjust icon size as needed */
+	background-image: url('../icons/icon-aad.svg');
+	background-size: contain;
+	background-repeat: no-repeat;
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 10px; /* Adjust margin between icon and label */
+}

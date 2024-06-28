@@ -1,3 +1,13 @@
+## How to build the plugin?
+
+To build a new version of the Azure API Management Developer Portal WordPress plugin, you need to run the following commands:
+```bash
+npm install
+npm run build
+npm run zip
+```
+This will generate a ZIP file with your plugin, which you can upload to your WordPress site.
+
 # Project
 
 > This repo has been populated by an initial template to help get you started. Please

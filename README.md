@@ -1,3 +1,12 @@
+## How to install the plugin?
+
+To install the Azure API Management Developer Portal WordPress plugin, you need to follow these steps:
+ 
+- install the twentytwentyfour theme, you can find it [here](https://wordpress.org/themes/twentytwentyfour/)
+- install the plugin
+
+You can find the ZIP files for installation in the /dist folder
+
 ## How to build the plugin?
 
 To build a new version of the Azure API Management Developer Portal WordPress plugin, you need to run the following commands:

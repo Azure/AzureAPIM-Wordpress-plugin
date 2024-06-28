@@ -1,0 +1,15 @@
+{
+    "name": "janmach1/apim-devportal",
+    "autoload": {
+        "psr-4": {
+            "Janmach1\\ApimDevportal\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jan Mach",
+            "email": "janmach1@microsoft.com"
+        }
+    ],
+    "require": {}
+}

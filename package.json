@@ -1,0 +1,33 @@
+{
+    "name": "apim-devportal",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build": "wp-scripts build",
+        "check-engines": "wp-scripts check-engines",
+        "check-licenses": "wp-scripts check-licenses",
+        "format": "wp-scripts format",
+        "lint:css": "wp-scripts lint-style",
+        "lint:js": "wp-scripts lint-js",
+        "lint:md:docs": "wp-scripts lint-md-docs",
+        "lint:pkg-json": "wp-scripts lint-pkg-json",
+        "packages-update": "wp-scripts packages-update",
+        "zip": "wp-scripts plugin-zip",
+        "start": "wp-scripts start",
+        "test:e2e": "wp-scripts test-e2e",
+        "test:unit": "wp-scripts test-unit-js",
+        "lt": "wp-scripts lint-js --fix && wp-scripts format"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@wordpress/scripts": "^27.1.0"
+    },
+    "dependencies": {
+        "react": "^18.2.0",
+        "react-markdown": "^9.0.1",
+        "swagger-ui-react": "^5.11.2"
+    }
+}

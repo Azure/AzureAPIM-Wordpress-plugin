@@ -1,3 +1,6 @@
+// Copyright (c) Microsoft Corporation.
+// Licensed under the MIT License.
+
 const defaults = require("@wordpress/scripts/config/webpack.config")
 
 module.exports = {

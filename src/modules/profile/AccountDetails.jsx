@@ -1,3 +1,6 @@
+// Copyright (c) Microsoft Corporation.
+// Licensed under the MIT License.
+
 import {useLoadUserInfo} from "../../components/services"
 import {renderDate} from "../../components/utils"
 

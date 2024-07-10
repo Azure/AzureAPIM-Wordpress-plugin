@@ -1,3 +1,6 @@
+// Copyright (c) Microsoft Corporation.
+// Licensed under the MIT License.
+
 import {SubscriptionState, TSubscription} from "./services/types"
 
 export const renderDate = (dateString: string) => dateString && new Date(dateString).toLocaleDateString()

@@ -1,3 +1,6 @@
+// Copyright (c) Microsoft Corporation.
+// Licensed under the MIT License.
+
 import {useLoadProducts} from "../../components/services"
 import c from "./styles.module.scss"
 

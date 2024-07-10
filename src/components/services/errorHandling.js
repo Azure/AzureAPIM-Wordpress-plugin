@@ -1,3 +1,6 @@
+// Copyright (c) Microsoft Corporation.
+// Licensed under the MIT License.
+
 const displayError = alert // TODO
 
 export function handleError(e) {

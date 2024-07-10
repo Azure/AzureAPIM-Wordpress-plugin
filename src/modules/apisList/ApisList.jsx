@@ -1,3 +1,6 @@
+// Copyright (c) Microsoft Corporation.
+// Licensed under the MIT License.
+
 import {useLoadApis} from "../../components/services"
 import c from "./styles.module.scss"
 

@@ -6,7 +6,7 @@ Follow the steps in this article to create a WordPress site on Azure App Service
 
 To install the Azure API Management Developer Portal WordPress plugin, you need to follow the steps highlighted in this article below:
  
-- [Documentation to deploy API management developer portal on Wordpress](https://review.learn.microsoft.com/en-us/azure/api-management/developer-portal-wordpress-plugin?branch=pr-en-us-278637)
+- [Documentation to deploy API management developer portal on Wordpress](https://learn.microsoft.com/en-us/azure/api-management/developer-portal-wordpress-plugin)
   
 ## How to build the plugin?
 

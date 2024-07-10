@@ -1,3 +1,6 @@
+// Copyright (c) Microsoft Corporation.
+// Licensed under the MIT License.
+
 const OcpSasToken = "Ocp-Apim-Sas-Token"
 const OcpUserId = "Ocp-Apim-User-Id"
 

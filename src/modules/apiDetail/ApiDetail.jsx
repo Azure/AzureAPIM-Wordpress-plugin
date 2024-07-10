@@ -1,3 +1,6 @@
+// Copyright (c) Microsoft Corporation.
+// Licensed under the MIT License.
+
 import SwaggerUI from "swagger-ui-react"
 import "./styles.module.scss"
 

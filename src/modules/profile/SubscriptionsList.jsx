@@ -1,3 +1,6 @@
+// Copyright (c) Microsoft Corporation.
+// Licensed under the MIT License.
+
 import {useState} from "react"
 import {useLoadSubscriptions, usePatchSubscriptionCancel} from "../../components/services"
 import {isSubscriptionActive, renderDate} from "../../components/utils"

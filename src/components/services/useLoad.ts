@@ -1,3 +1,6 @@
+// Copyright (c) Microsoft Corporation.
+// Licensed under the MIT License.
+
 import {useCallback, useEffect, useState} from "react"
 import {serviceName} from "../../constants"
 import {getSasToken} from "./userHandlers"

@@ -1,3 +1,6 @@
+// Copyright (c) Microsoft Corporation.
+// Licensed under the MIT License.
+
 import {useCallback, useState} from "react"
 import useLoad, {loadData} from "./useLoad"
 import {getUserId} from "./userHandlers"

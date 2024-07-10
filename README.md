@@ -1,8 +1,6 @@
-## How to deploy up a new the API Management developer portal on WordPress and customize it?
+## How to deploy the API Management developer portal on WordPress and customize it?
 
-This article shows how to stand up a new API Management developer portal on WordPress and hosted on Azure App Service. 
-
-With the plugin, turn any WordPress site into a developer portal. You can take advantage of site capabilities in WordPress to customize and add features to your developer portal including localization, collapsible and expandable menus, custom stylesheets, file downloads, and more.
+This article shows how to deploy the API Management developer portal on WordPress. With the plugin, turn any WordPress site into a developer portal. You can take advantage of site capabilities in WordPress to customize and add features to your developer portal including localization, collapsible and expandable menus, custom stylesheets, file downloads, and more.
 
 Follow the steps in this article to create a WordPress site on Azure App Service and configure the developer portal plugin on the WordPress site. Microsoft Entra ID is configured for authentication to the WordPress site and the developer portal.
 

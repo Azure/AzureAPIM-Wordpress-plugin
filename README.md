@@ -8,6 +8,14 @@ To install the Azure API Management Developer Portal WordPress plugin, you need 
  
 - [Documentation to deploy API management developer portal on Wordpress](https://learn.microsoft.com/en-us/azure/api-management/developer-portal-wordpress-plugin)
   
+## How to download the latest installation file for APIM Developer portal Wordpress plugin?
+
+Installation files for the developer portal WordPress plugin and customized WordPress theme from the [plugin repository](https://github.com/Azure/AzureAPIM-Wordpress-plugin/tree/main/dist). 
+
+Download the following zip files from the dist folder in the repo:
+1. [apim-devportal.zip](https://github.com/Azure/AzureAPIM-Wordpress-plugin/blob/main/dist/apim-devportal.zip)-Plugin file
+2. [twentytwentyfour.1.1.zip](https://github.com/Azure/AzureAPIM-Wordpress-plugin/blob/main/dist/twentytwentyfour.1.1.zip)- Theme file
+  
 ## How to build the plugin?
 
 To build a new version of the Azure API Management Developer Portal WordPress plugin, you need to run the following commands:
@@ -17,18 +25,6 @@ npm run build
 npm run zip
 ```
 This will generate a ZIP file with your plugin, which you can upload to your WordPress site.
-
-# Project
-
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
-
-As the maintainer of this project, please make a few updates:
-
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
 
 ## Contributing
 

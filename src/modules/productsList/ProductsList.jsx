@@ -21,7 +21,7 @@ const ProductsList = () => {
                 {products && products.value && products.value.map(product => (
                     <tr key={product.id}>
                         <td>
-                            <a href={`/product-details/?id=${product.id}`}>{product.id}</a>
+                            <a href={`/product-details/?id=${product.id}`}>{product.name}</a>
                         </td>
                         <td className={c.ellipseRow} title={product.description}>
                             {product.description}

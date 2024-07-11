@@ -40,4 +40,12 @@ export type TSubscription = {
     stateComment: null
 }
 
-export type TProduct = any // TODO
+export type TProduct = {
+    id: string
+    name: string
+    description: string
+    terms: string
+    approvalRequired: boolean
+    subscriptionRequired: boolean
+    subscriptionsLimit: number
+}

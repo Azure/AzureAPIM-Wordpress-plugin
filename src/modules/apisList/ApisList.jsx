@@ -17,7 +17,7 @@ export const ApisListView = ({apis}) => (
         {apis && apis.value && apis.value.map(api => (
             <tr key={api.id}>
                 <td>
-                    <a href={`/api-details/?id=${api.id}`}>{api.id}</a>
+                    <a href={`/api-details/?id=${api.id}`}>{api.name}</a>
                 </td>
                 <td>{api.protocols.join(", ").toUpperCase()}</td>
                 <td className={c.ellipseRow} title={api.description}>

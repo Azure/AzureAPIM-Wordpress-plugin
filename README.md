@@ -6,7 +6,7 @@ Follow the steps in this article to create a WordPress site on Azure App Service
 
 To install the Azure API Management Developer Portal WordPress plugin, you need to follow the steps highlighted in this article below:
  
-- [Documentation to deploy API management developer portal on Wordpress](https://learn.microsoft.com/en-us/azure/api-management/developer-portal-wordpress-plugin)
+- [Documentation to deploy API management developer portal on Wordpress](https://aka.ms/apim-wordpress)
   
 ## How to download the latest installation file for APIM Developer portal Wordpress plugin?
 
@@ -14,7 +14,7 @@ Installation files for the developer portal WordPress plugin and customized Word
 
 Download the following zip files from the dist folder in the repo:
 1. [apim-devportal.zip](https://github.com/Azure/AzureAPIM-Wordpress-plugin/blob/main/dist/apim-devportal.zip) - Plugin file
-2. [twentytwentyfour.1.1.zip](https://github.com/Azure/AzureAPIM-Wordpress-plugin/blob/main/dist/twentytwentyfour.1.1.zip) - Theme file
+2. [twentytwentyfour.zip](https://github.com/Azure/AzureAPIM-Wordpress-plugin/blob/main/dist/twentytwentyfour.zip) - Theme file
   
 ## How to build the plugin?
 
